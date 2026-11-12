@@ -1,20 +1,12 @@
 # Hi, I'm Leonardo Ortiz 👋
 
+## 💫 About Me:
+
 ### Systems Engineering Student | AI & Software Development
 
-I'm a Systems Engineering student passionate about Artificial Intelligence, Machine Learning, and Software Development.
+I'm a Systems Engineering student passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Software Development. My technical interests include building Machine Learning and Deep Learning solutions, working with data analysis and image processing, and developing full-stack applications with a focus on backend technologies, database management, and API development.
 
-I enjoy building practical projects, exploring emerging technologies, and continuously expanding my technical knowledge.
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Systems Engineering.
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 💻 Exploring software development and modern technologies.
-- 🧠 Interested in Deep Learning, RAG systems, and Cloud Computing.
-- 🌱 Always learning and working on new projects.
+I enjoy applying technology to solve real-world problems through hands-on projects, exploring different tools and frameworks, and continuously strengthening my technical skills. I'm particularly interested in the intersection of AI and software engineering, as well as emerging technologies such as Cloud Computing, RAG, and intelligent applications.
 
 ---
 
@@ -23,7 +15,7 @@ I enjoy building practical projects, exploring emerging technologies, and contin
 ### 💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,ts,js,dart" />
-  <img src="./images/sql.png" height="48" alt="SQL" />
+  <img src="./assets/sql.png" height="48" alt="SQL" />
 </p>
 
 ### 🧠 AI, Machine Learning & Data Science
@@ -72,7 +64,10 @@ I enjoy building practical projects, exploring emerging technologies, and contin
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
 </p>
 
-**Additional knowledge:** Azure Fundamentals, Docker, Git workflows, GitHub and API testing.</p>
+**Additional Knowledge:** Azure Fundamentals, Git workflows and API testing.
+
+
+
 ---
 
 ## 📌 Featured Projects
